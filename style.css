@@ -76,6 +76,11 @@ img {
     transition: transform 0.3s ease;
 }
 
+.header-img {
+    width: 500px;
+    height: 450px;
+
+}
 .zoomin:hover {
     /* Zooms the image in slightly */
     transform: scale(0.9);
