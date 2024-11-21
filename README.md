@@ -1,4 +1,4 @@
-# SafeNet Antivirus Website  
+# SafeNet Antivirus Website **(UI-ONLY)**
 
 ## Overview  
 This repository contains the source code for the **SafeNet Antivirus** website. The website provides an engaging and visually appealing interface that highlights the features, plans, and benefits of the SafeNet Antivirus software.  
