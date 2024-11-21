@@ -27,28 +27,12 @@ This repository contains the source code for the **SafeNet Antivirus** website. 
 
 ---
 
-## How to Use  
-
-1. **Clone the Repository**:  
-   ```bash  
-   git clone <repository-url>  
-   cd safenet-antivirus  
-   ```  
-
-2. **Open the Project**:  
-   Open the `index.html` file in a web browser to view the website.  
-
-3. **Edit the Files**:  
-   Update the HTML or CSS files as needed to customize the website.  
-
----
-
 ## Dependencies  
 - **Google Fonts**:  
   - Font: [Inter](https://fonts.google.com/specimen/Inter)  
 - **Phosphor Icons**:  
   - A lightweight icon library used for feature icons and UI elements.  
-  - CDN: `https://unpkg.com/@phosphor-icons/web`  
+  - CDN: `https://phosphoricons.com/`  
 
 ---
 
